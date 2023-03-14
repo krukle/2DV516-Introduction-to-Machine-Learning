@@ -15,7 +15,8 @@ This repository contains the code and reports for the course "2DV516 Introductio
 
 3. **Decision trees, Ensemble methods, SVM, and Neural Networks**
    * Implementing decision trees, Random Forests, and Adaboost from scratch and using Scikit-learn library.
-   * Implementing SVM and Neural Networks using Scikit-learn library.
+   * Implementing SVM using Scikit-learn library.
+   * Implementing Neural Networks using TensorFlow and Scikit-learn library.
    * Exploring the effect of hyperparameters on the performance of the models.
 
 4. **Unsupervised learning**
